@@ -1,0 +1,49 @@
+.App {
+    text-align: center;
+    margin: 20px;
+  }
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-variant: small-caps;
+}
+
+  
+  
+  form {
+    margin-bottom: 5px;
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  
+  button {
+        background-color: #4CAF50; /* Green background */
+        font-family: 'Times New Roman', Times, serif;
+        font-size: small;
+        font-variant: small-caps;
+        border: none; /* Remove borders */
+        color: white; /* White text */
+        padding: 15px 32px; /* Some padding */
+        text-align: center; /* Centered text */
+        text-decoration: rgb(251, 163, 0); /* Remove underline */
+        display: inline-block; /* Make the button inline-block */
+        font-size: 16px; /* Increase font size */
+        margin: 4px 2px; /* Some margin */
+        cursor: pointer; /* Pointer/hand icon */
+        border-radius: 30px; /* Rounded corners */
+        margin-left: 10px;
+        
+  }
+  button:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
+  
